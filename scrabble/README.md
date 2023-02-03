@@ -75,7 +75,7 @@ Player 1 wins!
 
 ## How to Submit
 
-Execute the below, logging in with your GitHub username and password when prompted. For security, you'll see asterisks (`*`) instead of the actual characters in your password.
+Execute the below, logging in with your GitHub username and token when prompted. For security, you'll see asterisks (`*`) instead of the actual characters in your password.
 
 ```
 submit50 shegoestech-baltics/labs/2023/x/hello
