@@ -71,6 +71,12 @@ Player 2: wiNNeR
 Player 1 wins!
 ```
 
+Execute the below to evaluate the style of your code using `style50`.
+
+```
+style50 hello.c
+```
+
 {% next %}
 
 ## How to Submit
