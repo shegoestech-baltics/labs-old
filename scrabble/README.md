@@ -74,7 +74,7 @@ Player 1 wins!
 Execute the below to evaluate the style of your code using `style50`.
 
 ```
-style50 hello.c
+style50 scrabble.c
 ```
 
 {% next %}
@@ -84,5 +84,5 @@ style50 hello.c
 Execute the below, logging in with your GitHub username and token when prompted. For security, you'll see asterisks (`*`) instead of the actual characters in your password.
 
 ```
-submit50 shegoestech-baltics/labs/2023/x/hello
+submit50 shegoestech-baltics/labs/2023/x/scrabble
 ```
