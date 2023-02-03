@@ -5,3 +5,8 @@ check50:
 
 submit50:
   files: *check50_files
+
+lab50:
+  files:
+    - !exclude "*"
+    - !include hello.c
